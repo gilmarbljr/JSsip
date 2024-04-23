@@ -4,7 +4,7 @@
  * 2. run the JsFiddle and enjoy
  */
  
-
+ 
 var socket = new JsSIP.WebSocketInterface('wss://???.???.???.???:8089/ws'); // FILL WSS SERVER
 
 var configuration = {
